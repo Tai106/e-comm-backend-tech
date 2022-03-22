@@ -1,10 +1,13 @@
 {
-  "name": "e-comm-backend-tech",
+  "name": "module-13-challenge-orm",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
   },
   "repository": {
     "type": "git",
@@ -13,7 +16,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
+  "devDependencies": {
+  "nodemon": "^2.0.3",
     "url": "https://github.com/Tai106/e-comm-backend-tech/issues"
   },
   "homepage": "https://github.com/Tai106/e-comm-backend-tech#readme",
