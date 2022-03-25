@@ -17,7 +17,7 @@ This project was built to act as the back end for an e-commerce site., using Exp
 * Use Mysql to check status
 
 # Screenshots
-<img src="C:\Users\Taivon\Desktop\back end.JPG" alt="BACK END DATA" title="BACK END">
+<img src="C:\Users\Taivon\Desktop\back end.JPG" alt="back end data" title="back end">
 
   
 # Video Walkthrough 
