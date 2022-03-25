@@ -17,10 +17,10 @@ This project was built to act as the back end for an e-commerce site., using Exp
 * Use Mysql to check status
 
 # Screenshots
-<img src="C:\Users\Taivon\Desktop\back end.JPG" alt="back end data" title="back end">
+![back end](https://user-images.githubusercontent.com/92614793/160057915-6248a93c-e8cc-4e28-9588-c888d45f79b1.JPG)
 
-  
-# Video Walkthrough 
+
+  # Video Walkthrough 
 * https://drive.google.com/file/d/1Di6_Pu4Kmr3o5kHhrQgR6ianwD0QCUZC/view
 
 
