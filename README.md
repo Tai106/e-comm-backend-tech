@@ -17,11 +17,11 @@ This project was built to act as the back end for an e-commerce site., using Exp
 * Use Mysql to check status
 
 # Screenshots
+![Alt text](C:\Users\Taivon\Desktop\back end.JPG "Title")
 
   
 # Video Walkthrough 
-
-
+* https://drive.google.com/file/d/1Di6_Pu4Kmr3o5kHhrQgR6ianwD0QCUZC/view
 
 
 # Contributor
